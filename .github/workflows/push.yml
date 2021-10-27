@@ -37,4 +37,4 @@ jobs:
         with:
           build_dir: docs
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: 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
